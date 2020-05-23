@@ -11,9 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/adamheald13/prototype-base.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Adam Heald",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/adamheald13/prototype-base/issues"
   },
